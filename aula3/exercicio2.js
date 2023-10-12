@@ -18,7 +18,7 @@ const listaDeAlunos = [
 ]
 
 const mediaDosAlunos = [];
-// está variável utilizei para usar como base no espaçamento das colunas
+// está variável serve de base para tabular as colunas
 let tamanhoMaiorNome=0
 for (const aluno of listaDeAlunos) {
   // optei por segregar as notas para dar maior visibilidade
