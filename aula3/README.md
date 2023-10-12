@@ -7,6 +7,7 @@ Retorne duas novas listas, uma contendo apenas os números
 pares e outra, os ìmpares.
 Esta lista deve ser assim: [1, 2, 3, 4, 5, 6, 7, 8, 9];
 ```
+<a href="https://github.com/bartomsilva/ADA-backend-exercicios/blob/main/aula3/exercicio1.js" >Exercício 1</b>
 
 ### Exercício 2
 ```
