@@ -28,7 +28,7 @@ resolução do <a href="https://github.com/bartomsilva/ADA-backend-exercicios/bl
 
 ### Instruções de uso
 para testar os códigos, você pode clonar o repositório ou fazer donwload do arquivo desejado individualmente.
-  - clonando o repositório: você estará adicionando ao seu computador todo repositório
+  - clonando o repositório: você estará adicionando ao seu computador todo repositório.
   - dowwload: você pode baixar individualmente cada exercício.
   - uma terceira opção é selecionar o contúdo do arquivo copiar e colar em um novo arquivo.
 
