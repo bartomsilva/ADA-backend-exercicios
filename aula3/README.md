@@ -27,8 +27,14 @@ da biblioteca Math: Math.round(Math.random() * 10)
 resolução do <a href="https://github.com/bartomsilva/ADA-backend-exercicios/blob/main/aula3/exercicio3.js">Exercício 3</a>
 
 ### Instruções de uso
-1) - você pode clonar o repositório ou fazer donwload do arquivo desejado individualmente.
+para testar os códigos, você pode clonar o repositório ou fazer donwload do arquivo desejado individualmente.
   - clonando o repositório: você estará adicionando ao seu computador todo repositório
   - dowwload: você pode baixar individualmente cada exercício.
   - uma terceira opção é selecionar o contúdo do arquivo copiar e colar em um novo arquivo.
+
+**Executando cada arquivo** : 
+```
+  node exercicio1
+```
+Se preferir pode executar diretamente clicando nos links abaixo.
 
