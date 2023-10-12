@@ -34,7 +34,7 @@ for (const aluno of listaDeAlunos) {
     tamanhoMaiorNome = aluno.nome.length
   }
 }
-// impressão das médias
+// impressão das médias (usei uma tabulação para ficar mais visível)
 for (const aluno of mediaDosAlunos) {
   console.log(`${aluno.nome.padEnd(tamanhoMaiorNome)} - média = ${aluno.media.toLocaleString("pt-br")}`);
 }
